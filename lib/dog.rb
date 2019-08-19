@@ -14,5 +14,5 @@ class Dog
   def bark 
     @dog_speak
   end 
-  
+ end  
 
