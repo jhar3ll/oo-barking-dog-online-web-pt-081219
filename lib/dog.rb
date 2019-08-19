@@ -7,4 +7,12 @@ class Dog
     @this_dogs_name
   end
   
+  def bark=(dog_bark)
+    @dog_speak = dog_bark
+  end 
   
+  def bark 
+    @dog_speak
+  end 
+  
+
