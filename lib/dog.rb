@@ -13,6 +13,7 @@ class Dog
   
   def bark 
     @dog_speak
+    puts "woof"
   end 
  end  
 
